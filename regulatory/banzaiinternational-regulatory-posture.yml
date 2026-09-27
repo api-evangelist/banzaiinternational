@@ -1,0 +1,44 @@
+generated: '2026-09-27'
+method: derived
+source: https://www.banzai.io/legal
+signals:
+  data_subject_request:
+    - url: https://www.banzai.io/legal/terms-and-conditions
+      evidence:
+        - source: https://www.banzai.io/legal/terms-and-conditions
+          http_status: 200
+          fetched: '2026-09-27'
+          quote: "is found unenforceable, the remaining provisions of the Terms will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible. Assignment . You may not assign any of your rights under these Terms, and any such attempt will be void. Banzai may assign its rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with t"
+    - url: https://www.banzai.io/legal/privacy-policy
+      evidence:
+        - source: https://www.banzai.io/legal/privacy-policy
+          http_status: 200
+          fetched: '2026-09-27'
+          quote: "We may revise this Policy from time to time. If we make minor changes to it without materially changing your rights, we will post the most current version on our website (this page). If we make a modification that materially changes your rights, we will notify you by email or another appropriate method."
+  subprocessors:
+    - url: https://www.banzai.io/legal/terms-and-conditions
+      evidence:
+        - source: https://www.banzai.io/legal/terms-and-conditions
+          http_status: 200
+          fetched: '2026-09-27'
+          quote: "Newsroom Demio Help Center Engagement Marketing The Movement Webinars & Events Blog & Podcast Downloads Become a Contributor Legal Banzai Terms & Conditions Demio Terms & Conditions Privacy Policy Acceptable Use Policy Subprocessors Services Agreement Banzai Trademark Guidelines Customer Login Banzai International, Inc. 435 Ericksen Ave NE, Suite 250 Bainbridge Island, WA 98110 \u200d Copyright \u00a9 Banzai International Inc"
+    - url: https://www.banzai.io/legal/privacy-policy
+      evidence:
+        - source: https://www.banzai.io/legal/privacy-policy
+          http_status: 200
+          fetched: '2026-09-27'
+          quote: "Newsroom Demio Help Center Engagement Marketing The Movement Webinars & Events Blog & Podcast Downloads Become a Contributor Legal Banzai Terms & Conditions Demio Terms & Conditions Privacy Policy Acceptable Use Policy Subprocessors Services Agreement Banzai Trademark Guidelines Customer Login Banzai International, Inc. 435 Ericksen Ave NE, Suite 250 Bainbridge Island, WA 98110 \u200d Copyright \u00a9 Banzai International Inc"
+  exit_assistance:
+    - url: https://www.banzai.io/legal/privacy-policy
+      evidence:
+        - source: https://www.banzai.io/legal/privacy-policy
+          http_status: 200
+          fetched: '2026-09-27'
+          quote: "s necessary to retain for the establishment, exercise or defense of legal claims. We may also store your email address in our Global Suppression List where you have withdrawn your consent, to avoid contacting you again. Data portability : Where processing is based on either your consent or a contract, you may ask us to transmit your personal data in a structured, commonly used and machine-readable format, to you or t"
+  data_retention:
+    - url: https://www.banzai.io/legal/privacy-policy
+      evidence:
+        - source: https://www.banzai.io/legal/privacy-policy
+          http_status: 200
+          fetched: '2026-09-27'
+          quote: "ta to facilitate the onboarding process and manage the employment relationship. \u200d We process your personal data if you become an employee of Banzai in accordance and retain the data as specified in the relevant employee data retention policy. Job applicants who are unsuccessful can ask us to keep their personal data for other job applications in the future, otherwise the information will be deleted within three years"
